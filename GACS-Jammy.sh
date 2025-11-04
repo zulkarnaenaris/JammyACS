@@ -51,7 +51,7 @@ print_banner() {
 	echo "                                               |_|        "
 	echo ""
 	echo "                  --- Ubuntu 22.04 ---"
-	echo "                  --- AchmadPR ---"
+	echo "                  --- KEBUNTALO NET ---"
 	echo -e "${NC}"
 }
 
